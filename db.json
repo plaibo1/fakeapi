@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Vasya",
+    "surname": "Petrov",
+    "patronymic": "Dmitrich",
+    "date": "02.02.2001"
+  },
+  {
+    "id": "2",
+    "name": "Alex",
+    "surname": "Petrov",
+    "patronymic": "Dmitrich",
+    "date": "02.12.2005"
+  },
+  {
+    "id": "3",
+    "name": "Vadik",
+    "surname": "Petrov",
+    "patronymic": "Dmitrich",
+    "date": "04.02.2002"
+  },
+  {
+    "id": "4",
+    "name": "Kolya",
+    "surname": "Petrov",
+    "patronymic": "Dmitrich",
+    "date": "02.03.2015"
+  },
+  {
+    "id": "5",
+    "name": "Baldo",
+    "surname": "Petrov",
+    "patronymic": "Kennnyevich",
+    "date": "01.02.2001"
+  }
+]
